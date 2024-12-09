@@ -1,0 +1,39 @@
+{
+  "Version": 1,
+  "Hash": "sMTPKeYsOXuFGAz7bOvavABy8kt0anowaCzin82vTxE=",
+  "Source": "calendar",
+  "BasePath": "_content/calendar",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "calendar\\wwwroot",
+      "Source": "calendar",
+      "ContentRoot": "C:\\stuff\\code stuff\\calendar\\wwwroot\\",
+      "BasePath": "_content/calendar",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\stuff\\code stuff\\calendar\\wwwroot\\index.html",
+      "SourceId": "calendar",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\stuff\\code stuff\\calendar\\wwwroot\\",
+      "BasePath": "_content/calendar",
+      "RelativePath": "index.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\index.html"
+    }
+  ]
+}
